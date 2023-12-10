@@ -3,8 +3,11 @@
 A re-creation of the schematic by Mokona can be found on
 [Triceraprog](https://www.triceraprog.fr/vg5000m-schemas-de-principe-mis-a-jour-en-v15.html).
 
-Partial software implementation of the EF9345 in Mame :
+Partial software implementation of the EF9345 in Mame:
 [ef9345.cpp](https://github.com/mamedev/mame/blob/master/src/devices/video/ef9345.cpp)
+
+Other partial implementation of the EF9345 (and VG5000µ) using the Chips project:
+[ef9345.h](https://github.com/Mokona/chips/blob/vg5000/chips/ef9345.h)
 
 # Mappings
 
