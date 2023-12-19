@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# This file is a placeholder to help understand what is going on
+# when an image is stale or missing. It should be replaced locally
+# by an alternate version on machines able to generate images (hot_rom).
+
+image_file="$2"
+rom_file="$1"
+
+echo "Missing/stale image: $2 is out of sync with $1."
+
+exit 1
